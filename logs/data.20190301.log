@@ -1,0 +1,222 @@
+[2019-03-01T00:11:24.396] [INFO] APP - /openapi/main
+[2019-03-01T00:11:43.182] [INFO] APP - /openapi/register
+[2019-03-01T00:11:43.184] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-03-01T00:11:44.581] [INFO] base-router - emailused params
+[2019-03-01T00:11:44.615] [ERROR] APP - APP SYSTEM ERROR:ReferenceError: result is not defined
+[2019-03-01T00:29:13.871] [ERROR] APP - APP SYSTEM ERROR:ReferenceError: result is not defined
+[2019-03-01T00:29:29.632] [INFO] APP - /openapi/main
+[2019-03-01T00:29:40.747] [INFO] APP - /openapi/register
+[2019-03-01T00:29:40.748] [INFO] base-router - 注册开始 %::% ssx891006@163.dom
+[2019-03-01T00:29:42.623] [INFO] base-router - emailused params
+[2019-03-01T00:29:42.650] [ERROR] APP - APP SYSTEM ERROR:ReferenceError: result is not defined
+[2019-03-01T00:30:11.722] [INFO] APP - /openapi/main
+[2019-03-01T00:30:33.861] [INFO] APP - /openapi/register
+[2019-03-01T00:30:33.863] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:30:35.134] [INFO] base-router - emailused params
+[2019-03-01T00:31:27.881] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcxNDM1LCJleHAiOjE1NTEzNzUwMzUsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.lEqyPXZkkxbhXt8ovBWYz1lom7ezLlPGrHEmrz49tpI
+[2019-03-01T00:31:36.257] [INFO] APP - /openapi/main
+[2019-03-01T00:31:51.700] [INFO] APP - /openapi/register
+[2019-03-01T00:31:51.701] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:31:53.054] [INFO] base-router - emailused params
+[2019-03-01T00:31:53.074] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcxNTEyLCJleHAiOjE1NTEzNzUxMTIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.obPgQvA1JOECld58SwyR93yf8fQhApZzqJgtao9nGvM
+[2019-03-01T00:32:18.367] [INFO] APP - /openapi/register
+[2019-03-01T00:32:18.368] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:32:20.042] [INFO] base-router - emailused params
+[2019-03-01T00:35:16.134] [INFO] APP - /openapi/register
+[2019-03-01T00:35:16.136] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:35:18.123] [INFO] base-router - emailused params
+[2019-03-01T00:35:25.061] [INFO] APP - /openapi/main
+[2019-03-01T00:35:34.967] [INFO] APP - /openapi/register
+[2019-03-01T00:35:34.969] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:35:36.168] [INFO] base-router - emailused params
+[2019-03-01T00:36:08.099] [INFO] APP - /openapi/main
+[2019-03-01T00:36:18.471] [INFO] APP - /openapi/register
+[2019-03-01T00:36:18.472] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:36:20.182] [INFO] base-router - emailused params
+[2019-03-01T00:36:43.417] [INFO] APP - /openapi/main
+[2019-03-01T00:36:52.654] [INFO] APP - /openapi/register
+[2019-03-01T00:36:52.656] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:36:53.752] [INFO] base-router - emailused params
+[2019-03-01T00:37:45.052] [INFO] APP - /openapi/main
+[2019-03-01T00:37:54.526] [INFO] APP - /openapi/register
+[2019-03-01T00:37:54.527] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:37:55.597] [INFO] base-router - emailused params
+[2019-03-01T00:38:26.412] [INFO] APP - /openapi/main
+[2019-03-01T00:38:36.124] [INFO] APP - /openapi/register
+[2019-03-01T00:38:36.131] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:38:37.793] [INFO] base-router - emailused params
+[2019-03-01T00:38:49.753] [INFO] APP - /openapi/main
+[2019-03-01T00:38:58.382] [INFO] APP - /openapi/register
+[2019-03-01T00:38:58.384] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:39:00.331] [INFO] base-router - emailused params
+[2019-03-01T00:39:39.275] [INFO] APP - /openapi/main
+[2019-03-01T00:40:18.744] [INFO] APP - /openapi/main
+[2019-03-01T00:41:06.505] [INFO] APP - /openapi/main
+[2019-03-01T00:41:55.004] [INFO] APP - /openapi/main
+[2019-03-01T00:42:19.268] [INFO] APP - /openapi/main
+[2019-03-01T00:42:44.947] [INFO] APP - /openapi/main
+[2019-03-01T00:42:45.191] [INFO] APP - /openapi/main
+[2019-03-01T00:42:45.411] [INFO] APP - /openapi/main
+[2019-03-01T00:42:45.520] [INFO] APP - /openapi/main
+[2019-03-01T00:42:45.733] [INFO] APP - /openapi/main
+[2019-03-01T00:42:57.069] [INFO] APP - /openapi/main
+[2019-03-01T00:44:10.189] [INFO] APP - /openapi/main
+[2019-03-01T00:44:24.068] [INFO] APP - /openapi/main
+[2019-03-01T00:44:40.502] [INFO] APP - /openapi/register
+[2019-03-01T00:44:40.503] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-03-01T00:44:42.224] [INFO] base-router - emailused params
+[2019-03-01T00:44:42.255] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T00:58:06.155] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T00:58:06.158] [ERROR] APP - APP SYSTEM ERROR:ReferenceError: token is not defined
+[2019-03-01T01:01:01.436] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:04:12.989] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:04:12.992] [ERROR] APP - APP SYSTEM ERROR:Error: Could not find matching close tag for "<%".
+[2019-03-01T01:05:06.760] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:05:06.769] [ERROR] APP - APP SYSTEM ERROR:SyntaxError: Unexpected token ) in F:\tp\views\c\user\deal.html while compiling ejs
+[2019-03-01T01:05:40.205] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:07:29.892] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:08:16.993] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:08:19.431] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:08:20.521] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:08:20.920] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:08:21.828] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:09:59.399] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:10:05.441] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:07.157] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:08.737] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:09.389] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:10.009] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:10.526] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:10.826] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:10.997] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.151] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.287] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.487] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.653] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.787] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:11.941] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:11:42.081] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:13:05.614] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T01:14:18.565] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzcyMjgyLCJleHAiOjE1NTEzNzU4ODIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.eEx88nJ27Qq9x5qxgDTfeQ-zj5sqMnPDSe8UQlTF1Ng
+[2019-03-01T21:39:25.537] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T21:39:25.709] [INFO] APP - /favicon.ico
+[2019-03-01T21:39:25.710] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-01T21:40:03.031] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T21:40:03.852] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T21:41:32.278] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T21:42:16.811] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T21:42:59.485] [INFO] APP - /openapi/plat
+[2019-03-01T21:42:59.565] [ERROR] APP - APP SYSTEM ERROR:Error: ENOENT: no such file or directory, open 'F:\tp\commonHead.html'
+[2019-03-01T21:44:12.435] [INFO] APP - /openapi/plat
+[2019-03-01T21:46:18.559] [INFO] APP - /openapi/plat
+[2019-03-01T21:48:44.282] [INFO] APP - /openapi/plat
+[2019-03-01T21:49:47.299] [INFO] APP - /openapi/plat
+[2019-03-01T21:49:57.959] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:07.296] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:09.167] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:09.487] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:09.663] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:09.830] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:09.973] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:10.141] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:10.317] [INFO] APP - /openapi/plat
+[2019-03-01T21:50:47.943] [INFO] APP - /openapi/plat
+[2019-03-01T21:51:02.074] [INFO] APP - /openapi/plat
+[2019-03-01T21:51:43.738] [INFO] APP - /openapi/plat
+[2019-03-01T21:54:50.076] [INFO] APP - /openapi/plat
+[2019-03-01T21:58:24.023] [INFO] APP - /openapi/plat
+[2019-03-01T21:59:27.935] [INFO] APP - /openapi/plat
+[2019-03-01T21:59:41.464] [INFO] APP - /openapi/plat
+[2019-03-01T22:15:42.768] [INFO] APP - /openapi/plat
+[2019-03-01T22:15:42.803] [INFO] APP - /js/third-part/md5.js
+[2019-03-01T22:15:42.805] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-01T22:16:17.446] [INFO] APP - /openapi/plat
+[2019-03-01T22:16:17.481] [INFO] APP - /js/third-part/md5.js
+[2019-03-01T22:16:17.483] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-01T22:16:56.673] [INFO] APP - /openapi/plat
+[2019-03-01T22:16:56.707] [INFO] APP - /js/third-part/md5.js
+[2019-03-01T22:16:56.712] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-01T22:17:29.089] [INFO] APP - /openapi/plat
+[2019-03-01T22:17:29.119] [INFO] APP - /js/third-part/md5.js
+[2019-03-01T22:17:29.124] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-01T22:18:04.313] [INFO] APP - /openapi/plat
+[2019-03-01T22:32:38.411] [INFO] APP - /openapi/plat
+[2019-03-01T22:32:42.079] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:33:40.616] [INFO] APP - /openapi/plat
+[2019-03-01T22:33:43.437] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:34:38.271] [INFO] APP - /openapi/plat
+[2019-03-01T22:34:41.268] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:35:39.728] [INFO] APP - /openapi/plat
+[2019-03-01T22:35:43.373] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:36:02.655] [INFO] APP - /openapi/plat
+[2019-03-01T22:36:06.581] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:37:08.984] [INFO] APP - /openapi/plat
+[2019-03-01T22:37:32.566] [INFO] APP - /openapi/plat
+[2019-03-01T22:37:35.966] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:38:12.880] [INFO] APP - /openapi/plat
+[2019-03-01T22:38:15.318] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:38:42.584] [INFO] APP - /openapi/plat
+[2019-03-01T22:38:46.046] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:39:22.104] [INFO] APP - /openapi/plat
+[2019-03-01T22:39:25.566] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:40:18.696] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-01T22:40:46.568] [INFO] APP - /openapi/plat
+[2019-03-01T22:40:50.255] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:40:50.256] [INFO] base-router - incomplete params
+[2019-03-01T22:41:44.238] [INFO] APP - /openapi/plat
+[2019-03-01T22:41:46.542] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:41:46.543] [INFO] base-router - incomplete params
+[2019-03-01T22:43:28.384] [INFO] APP - /openapi/plat
+[2019-03-01T22:43:32.112] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:43:32.114] [INFO] base-router - incomplete params
+[2019-03-01T22:44:40.528] [INFO] APP - /openapi/plat
+[2019-03-01T22:44:43.174] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:44:48.181] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:46:35.345] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:52:14.172] [INFO] APP - /openapi/plat
+[2019-03-01T22:52:17.935] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:52:22.939] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:56:21.236] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:42.207] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:42.420] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:42.578] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:42.720] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:42.848] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:51.948] [INFO] APP - /openapi/plat
+[2019-03-01T22:56:57.288] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:58:57.299] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:59:01.327] [INFO] APP - /openapi/plat
+[2019-03-01T22:59:04.458] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:59:09.473] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T22:59:51.068] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:06:36.425] [INFO] APP - /openapi/plat
+[2019-03-01T23:06:42.005] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:07:48.133] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:07:48.489] [INFO] APP - /openapi/plat
+[2019-03-01T23:07:53.077] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:07:58.096] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:08:13.352] [INFO] APP - /openapi/plat
+[2019-03-01T23:08:28.800] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:11:04.216] [INFO] APP - /openapi/plat
+[2019-03-01T23:11:09.714] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:11:09.750] [INFO] base-router - emailused params
+[2019-03-01T23:11:58.111] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:12:15.619] [INFO] APP - /openapi/plat
+[2019-03-01T23:12:22.650] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:12:22.691] [INFO] base-router - login success
+[2019-03-01T23:12:22.859] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRkZGZmeXVnIiwiaWF0IjoxNTUxNDUzMTQyLCJleHAiOjE1NTE0NTY3NDIsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.hvVjSCiwX3pP7j29U939liF8QxrNDXb5V-5gV9fXcr8
+[2019-03-01T23:13:17.366] [INFO] APP - /openapi/plat
+[2019-03-01T23:13:22.839] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:13:22.848] [INFO] base-router - login success
+[2019-03-01T23:13:28.147] [INFO] APP - /openapi/plat
+[2019-03-01T23:13:32.391] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:13:32.396] [INFO] base-router - login success
+[2019-03-01T23:14:13.431] [INFO] APP - /openapi/plat
+[2019-03-01T23:14:16.474] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:14:21.482] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:16:21.494] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:21:18.557] [INFO] APP - /openapi/plat
+[2019-03-01T23:21:22.532] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:21:22.557] [INFO] base-router - login success
+[2019-03-01T23:21:27.203] [INFO] APP - /openapi/plat/platlogin
+[2019-03-01T23:21:27.208] [INFO] base-router - admin not find

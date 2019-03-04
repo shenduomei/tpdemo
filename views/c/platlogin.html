@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../commonHead.html %>
+        <title>会员中心</title>
+        <style>
+            #app {
+                width:10rem;
+                margin:0 auto;
+            }
+            #platlogin {
+                height:4rem;
+                width:6rem;
+                margin:0 auto;
+                margin-top:4rem;
+                border:1px solid red;
+            }
+            #platlogin input {
+                height:.8rem;
+                width:4rem;
+                margin:0 auto;
+                margin-top:.4rem;
+                display: block;
+            }
+            #platlogin .submit {
+                width:3rem;
+            }
+           
+           
+        </style>
+</head>
+
+<body>
+    <div id="app">
+        <form action=""  method="post" enctype="multipart/form-data" id="platlogin">
+           <input type="text" value="请输入用户名" v-model="username">
+           <input type="password" v-model="password">
+           <input class="submit" type="submit" @click="login($event)" value="登录">
+        </form>
+    </div>
+
+</body>
+
+
+<script type="text/javascript">
+    
+    var app = new Vue({
+        el: "#app",
+        data: function () {
+           return {
+              username:"",
+              password:"",
+              error:"",
+           }
+        },
+        methods: {
+            login:function(event) {
+                event.preventDefault();
+                let slef = this;
+                $.ajax({
+                   type: 'POST',
+                   url: '/openapi/plat/platlogin',
+                   data: {
+                       username:slef.username,
+                       password:slef.password //这个地方是需要进行加密的 由于时间关系暂时先不加密
+                   },
+                   success: function(data) {
+                       if(data.rsp_code == 'succ') {
+                           localStorage.setItem('token',data.succ_msg.token);
+                           localStorage.setItem('plateuser',slef.username);
+                           window.location.href = "/openapi/plat/curd?token="+data.succ_msg.token;
+                       } else {
+                           slef.error = data.error_msg
+                       }
+                  }
+                });
+           },
+            
+
+        },
+        watch:{
+          error(value) {
+              let self = this;
+              if(value != "") {
+                  setTimeout(() => {
+                    self.error = ""
+                  },2000)
+                }
+          }
+        },
+        created: function () {
+          
+        }
+    })
+
+</script>
+
+</html>

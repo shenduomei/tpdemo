@@ -1,0 +1,173 @@
+[2019-02-28T00:15:36.131] [INFO] base-router - invalid token
+[2019-02-28T00:17:06.179] [INFO] base-router - invalid token
+[2019-02-28T00:18:12.596] [INFO] base-router - invalid token
+[2019-02-28T00:20:03.223] [INFO] base-router - invalid token
+[2019-02-28T00:24:26.873] [INFO] base-router - invalid token
+[2019-02-28T00:24:27.866] [INFO] base-router - invalid token
+[2019-02-28T00:32:44.496] [INFO] base-router - invalid token
+[2019-02-28T00:32:45.420] [INFO] base-router - invalid token
+[2019-02-28T00:33:02.420] [INFO] base-router - invalid token
+[2019-02-28T00:34:00.116] [INFO] base-router - invalid token
+[2019-02-28T00:34:00.988] [INFO] base-router - invalid token
+[2019-02-28T00:34:01.171] [INFO] base-router - invalid token
+[2019-02-28T00:34:01.314] [INFO] base-router - invalid token
+[2019-02-28T00:34:01.473] [INFO] base-router - invalid token
+[2019-02-28T00:34:01.594] [INFO] base-router - invalid token
+[2019-02-28T00:34:01.754] [INFO] base-router - invalid token
+[2019-02-28T00:34:52.131] [INFO] base-router - invalid token
+[2019-02-28T00:35:52.502] [INFO] base-router - invalid token
+[2019-02-28T00:36:56.550] [INFO] base-router - invalid token
+[2019-02-28T00:37:07.303] [INFO] base-router - invalid token
+[2019-02-28T00:37:47.544] [INFO] base-router - invalid token
+[2019-02-28T00:38:30.258] [INFO] base-router - invalid token
+[2019-02-28T00:39:46.337] [INFO] base-router - invalid token
+[2019-02-28T00:43:51.776] [INFO] APP - /openapi/main
+[2019-02-28T00:43:51.854] [INFO] base-router - invalid token
+[2019-02-28T00:43:58.144] [INFO] APP - /openapi/main
+[2019-02-28T00:43:58.167] [INFO] base-router - invalid token
+[2019-02-28T00:49:02.074] [INFO] APP - /openapi/main
+[2019-02-28T00:49:02.111] [INFO] base-router - invalid token
+[2019-02-28T00:49:19.106] [INFO] APP - /openapi/register
+[2019-02-28T00:49:19.107] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:49:54.478] [INFO] APP - /openapi/register
+[2019-02-28T00:49:54.481] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:50:34.675] [INFO] APP - /openapi/register
+[2019-02-28T00:50:34.680] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:51:21.369] [INFO] APP - /openapi/register
+[2019-02-28T00:51:21.372] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:51:55.220] [INFO] APP - /openapi/register
+[2019-02-28T00:51:55.223] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:52:28.537] [INFO] APP - /openapi/register
+[2019-02-28T00:52:28.539] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T00:52:30.036] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMjg2MzQ5LCJleHAiOjE1NTEyODk5NDksImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.QEzp-NUjpwrSHoPt-ey92-yOngDLOjeTVe0G7tdKqg0
+[2019-02-28T21:28:31.190] [INFO] base-router - invalid token
+[2019-02-28T21:28:32.256] [INFO] base-router - invalid token
+[2019-02-28T21:28:39.130] [INFO] APP - /openapi/main
+[2019-02-28T21:28:39.328] [INFO] base-router - invalid token
+[2019-02-28T21:28:39.631] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.447] [INFO] APP - /openapi/main
+[2019-02-28T21:28:57.476] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.572] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.633] [INFO] APP - /openapi/main
+[2019-02-28T21:28:57.661] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.757] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.791] [INFO] APP - /openapi/main
+[2019-02-28T21:28:57.826] [INFO] base-router - invalid token
+[2019-02-28T21:28:57.932] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.074] [INFO] APP - /openapi/main
+[2019-02-28T21:28:58.121] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.208] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.358] [INFO] APP - /openapi/main
+[2019-02-28T21:28:58.378] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.461] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.519] [INFO] APP - /openapi/main
+[2019-02-28T21:28:58.547] [INFO] base-router - invalid token
+[2019-02-28T21:28:58.650] [INFO] base-router - invalid token
+[2019-02-28T21:29:55.863] [INFO] APP - /openapi/main
+[2019-02-28T21:29:55.912] [INFO] base-router - invalid token
+[2019-02-28T21:29:56.015] [INFO] base-router - invalid token
+[2019-02-28T21:30:33.191] [INFO] APP - /openapi/main
+[2019-02-28T21:30:33.242] [INFO] base-router - invalid token
+[2019-02-28T21:30:33.331] [INFO] base-router - invalid token
+[2019-02-28T21:33:14.128] [INFO] APP - /openapi/main
+[2019-02-28T21:33:14.277] [INFO] APP - /favicon.ico
+[2019-02-28T21:33:14.278] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-02-28T21:34:31.242] [INFO] APP - /openapi/main
+[2019-02-28T21:38:42.647] [INFO] APP - /openapi/main
+[2019-02-28T21:39:48.459] [INFO] APP - /openapi/main
+[2019-02-28T21:40:30.296] [INFO] APP - /openapi/register
+[2019-02-28T21:40:30.298] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T21:40:32.371] [INFO] base-router - emailused params
+[2019-02-28T21:44:32.640] [INFO] APP - /openapi/register
+[2019-02-28T21:44:32.646] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T21:44:34.498] [INFO] base-router - emailused params
+[2019-02-28T21:46:21.686] [INFO] APP - /openapi/register
+[2019-02-28T21:46:21.689] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T21:46:21.692] [ERROR] base-router - SYSTEM ERROR:ReferenceError: token is not defined
+[2019-02-28T21:47:08.029] [INFO] APP - /openapi/register
+[2019-02-28T21:47:08.032] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T21:47:10.262] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzYxNjMwLCJleHAiOjE1NTEzNjUyMzAsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.DapdmC27ux79ba0hVo5tk2RjvDuvUho96jeUM5VwD1w
+[2019-02-28T21:57:33.186] [INFO] APP - /openapi/register
+[2019-02-28T21:57:33.190] [INFO] base-router - 注册开始 %::% 857683182@163.com
+[2019-02-28T21:57:34.907] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ijg1NzY4MzE4MkAxNjMuY29tIiwiaWF0IjoxNTUxMzYyMjU0LCJleHAiOjE1NTEzNjU4NTQsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.QS2PhDIJ6H1EnLZwOviy_rngN9vrqQrjppk9pvBiBNE
+[2019-02-28T22:08:15.195] [INFO] APP - /openapi/register
+[2019-02-28T22:08:15.202] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:08:16.481] [INFO] base-router - emailused params
+[2019-02-28T22:08:35.214] [INFO] APP - /openapi/register
+[2019-02-28T22:08:35.216] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:09:27.600] [INFO] APP - /openapi/register
+[2019-02-28T22:09:27.605] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:09:29.332] [INFO] base-router - emailused params
+[2019-02-28T22:09:42.259] [INFO] APP - /openapi/register
+[2019-02-28T22:09:42.261] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:10:37.179] [INFO] APP - /openapi/register
+[2019-02-28T22:10:37.194] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:10:38.385] [INFO] base-router - emailused params
+[2019-02-28T22:11:06.558] [INFO] APP - /openapi/register
+[2019-02-28T22:11:06.571] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:11:08.094] [INFO] base-router - emailused params
+[2019-02-28T22:13:30.623] [INFO] APP - /openapi/register
+[2019-02-28T22:13:30.635] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:13:32.398] [INFO] base-router - emailused params
+[2019-02-28T22:13:47.325] [INFO] APP - /openapi/register
+[2019-02-28T22:13:47.330] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:13:48.615] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzYzMjI4LCJleHAiOjE1NTEzNjY4MjgsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.Qm5Xy9n02LhW7oq3aX9Wyj7Fkhcw7aGWie9KSaJPmu4
+[2019-02-28T22:17:35.402] [INFO] APP - /openapi/register
+[2019-02-28T22:17:35.411] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:17:36.995] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzYzNDU2LCJleHAiOjE1NTEzNjcwNTYsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.0uymm0md7mS6SgsW7Hvn21OJ2Y00npAHm4Cp1UYGgJI
+[2019-02-28T22:19:08.670] [INFO] APP - /openapi/register
+[2019-02-28T22:19:08.678] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:19:11.212] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzYzNTUxLCJleHAiOjE1NTEzNjcxNTEsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.oerYMyyv3DdXZ6JEGKgQ6SGoqv8rgOId92JUcTD6Rz4
+[2019-02-28T22:40:54.341] [INFO] APP - /openapi/register
+[2019-02-28T22:40:54.356] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:41:32.870] [INFO] APP - /openapi/main
+[2019-02-28T22:41:41.812] [INFO] APP - /openapi/register
+[2019-02-28T22:41:41.821] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:42:18.647] [INFO] APP - /openapi/register
+[2019-02-28T22:42:18.660] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:42:52.217] [INFO] APP - /openapi/main
+[2019-02-28T22:43:02.278] [INFO] APP - /openapi/register
+[2019-02-28T22:43:02.286] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:46:14.103] [INFO] APP - /openapi/register
+[2019-02-28T22:46:14.114] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:47:48.261] [INFO] APP - /openapi/main
+[2019-02-28T22:48:09.436] [INFO] APP - /openapi/register
+[2019-02-28T22:48:09.444] [INFO] base-router - 注册开始 %::% 857683182@qq.com
+[2019-02-28T22:48:11.236] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ijg1NzY4MzE4MkBxcS5jb20iLCJpYXQiOjE1NTEzNjUyOTEsImV4cCI6MTU1MTM2ODg5MSwiYXVkIjoic3Nzc3MiLCJpc3MiOiJzc3NzIiwic3ViIjoic3Nzc3MifQ.JaJmCgoDm_XlTbzyi308P8ba51CHpYElCFE8Ucj2KPo
+[2019-02-28T22:52:17.746] [INFO] APP - /openapi/register
+[2019-02-28T22:52:17.758] [INFO] base-router - 注册开始 %::% ssz891006@163.com
+[2019-02-28T22:52:19.024] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzejg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzY1NTM4LCJleHAiOjE1NTEzNjkxMzgsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.WyZ5qagm9RZ4dN1HkYCXT0gk1bOWcuYk0MtIq4eseh4
+[2019-02-28T22:54:25.961] [INFO] APP - /openapi/register
+[2019-02-28T22:54:25.969] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:54:27.979] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzY1NjY3LCJleHAiOjE1NTEzNjkyNjcsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.jZ1LQA1FZH_f-dT22iRNRDyrZ89BRtY1t_mDcvsgoJQ
+[2019-02-28T22:58:34.568] [INFO] APP - /openapi/register
+[2019-02-28T22:58:34.576] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T22:58:36.750] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzeDg5MTAwNkAxNjMuY29tIiwiaWF0IjoxNTUxMzY1OTE2LCJleHAiOjE1NTEzNjk1MTYsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.uErlQ_lLuFfzN_z8axJwl6bAdl0EVkqqXkEP7zAnpHc
+[2019-02-28T23:02:14.698] [INFO] APP - /openapi/register
+[2019-02-28T23:02:14.716] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:02:16.500] [INFO] base-router - emailused params
+[2019-02-28T23:03:08.950] [INFO] APP - /openapi/register
+[2019-02-28T23:03:08.958] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:03:10.325] [INFO] base-router - emailused params
+[2019-02-28T23:33:17.030] [INFO] APP - /openapi/register
+[2019-02-28T23:33:17.033] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:33:18.844] [INFO] base-router - emailused params
+[2019-02-28T23:33:41.129] [INFO] APP - /openapi/main
+[2019-02-28T23:33:55.383] [INFO] APP - /openapi/register
+[2019-02-28T23:33:55.385] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:33:57.006] [INFO] base-router - emailused params
+[2019-02-28T23:34:42.796] [INFO] APP - /openapi/register
+[2019-02-28T23:34:42.797] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:34:43.947] [INFO] base-router - emailused params
+[2019-02-28T23:34:51.707] [INFO] APP - /openapi/register
+[2019-02-28T23:34:51.708] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:34:52.952] [INFO] base-router - emailused params
+[2019-02-28T23:34:59.968] [INFO] APP - /openapi/main
+[2019-02-28T23:35:16.195] [INFO] APP - /openapi/register
+[2019-02-28T23:35:16.196] [INFO] base-router - 注册开始 %::% ssx891006@163.com
+[2019-02-28T23:35:17.580] [INFO] base-router - emailused params
+[2019-02-28T23:36:07.095] [INFO] APP - /openapi/main
+[2019-02-28T23:36:16.612] [INFO] APP - /openapi/register
+[2019-02-28T23:36:16.613] [INFO] base-router - 注册开始 %::% 857683182@163.com
+[2019-02-28T23:36:18.202] [INFO] base-router - emailused params
+[2019-02-28T23:36:18.233] [INFO] APP - /openapi/vote?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ijg1NzY4MzE4MkAxNjMuY29tIiwiaWF0IjoxNTUxMzY4MTc4LCJleHAiOjE1NTEzNzE3NzgsImF1ZCI6InNzc3NzIiwiaXNzIjoic3NzcyIsInN1YiI6InNzc3NzIn0.lDu6kx0pNSWB_lgmXa94wLhWZkQ60gcSiAwIbXhPaLM

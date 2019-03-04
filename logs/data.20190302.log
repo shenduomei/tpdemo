@@ -1,0 +1,147 @@
+[2019-03-02T20:03:06.725] [INFO] APP - /openapi/plat
+[2019-03-02T20:03:07.754] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:03:21.459] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:03:21.484] [INFO] base-router - login success
+[2019-03-02T20:10:24.079] [INFO] APP - /openapi/plat
+[2019-03-02T20:10:24.311] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:10:31.419] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:10:31.443] [INFO] base-router - login success
+[2019-03-02T20:10:31.561] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyODYzMSwiZXhwIjoxNTUxNTMyMjMxLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.UMJt9yEMsYQx8vQWwchRi0vk_gOV6A2oRYvdQstVAyw
+[2019-03-02T20:10:31.566] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:10:31.826] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:12:14.806] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:12:16.572] [INFO] APP - /openapi/plat
+[2019-03-02T20:12:16.676] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:12:20.800] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:12:20.826] [INFO] base-router - login success
+[2019-03-02T20:12:20.842] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyODc0MCwiZXhwIjoxNTUxNTMyMzQwLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.NA0W0oqvf7vW3WSILRO6KHbeFbYD8kvtW1tnltqajfQ
+[2019-03-02T20:12:20.844] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:12:20.887] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:13:15.894] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:13:16.786] [INFO] APP - /openapi/plat
+[2019-03-02T20:13:16.872] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:13:21.223] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:13:21.254] [INFO] base-router - login success
+[2019-03-02T20:13:21.278] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyODgwMSwiZXhwIjoxNTUxNTMyNDAxLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.t8Ov7h3LPfnSaGVGrE_IlKTX3dGmh7OCJJ0EBq44KOo
+[2019-03-02T20:13:21.279] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:13:21.338] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:14:46.169] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:14:50.022] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:14:50.051] [INFO] base-router - login success
+[2019-03-02T20:14:50.077] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyODg5MCwiZXhwIjoxNTUxNTMyNDkwLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.PxL6GUJIJCA8n3u9vRcEoxDoXijWTZHg-sGPGA2ctrc
+[2019-03-02T20:14:50.078] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:14:50.117] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:17:19.855] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:17:24.351] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:17:24.466] [INFO] base-router - login success
+[2019-03-02T20:17:24.484] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTA0NCwiZXhwIjoxNTUxNTMyNjQ0LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.mjwRdvevJf3br1MG8u8gB7rvLasHT7Ypr1DHLoGkuIY
+[2019-03-02T20:17:24.485] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:17:24.515] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:19:00.954] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:19:03.084] [INFO] APP - /openapi/plat
+[2019-03-02T20:19:03.168] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:19:07.902] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:19:07.911] [INFO] base-router - login success
+[2019-03-02T20:19:07.927] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTE0NywiZXhwIjoxNTUxNTMyNzQ3LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.AxjgdifxQuDHuRijAj7sz3qdegt6MVFwOLMfcu_R02U
+[2019-03-02T20:19:07.929] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:19:07.971] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:21:10.220] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:21:14.012] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:21:14.039] [INFO] base-router - login success
+[2019-03-02T20:21:14.059] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTI3NCwiZXhwIjoxNTUxNTMyODc0LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.Fx7kSA7O-feDIqcwaU8rAIWlM3_vMvOZCphVzi4gV_s
+[2019-03-02T20:21:14.061] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:21:14.091] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:22:01.475] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:22:03.225] [INFO] APP - /openapi/plat
+[2019-03-02T20:22:03.307] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:22:10.577] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:22:10.606] [INFO] base-router - login success
+[2019-03-02T20:22:10.626] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTMzMCwiZXhwIjoxNTUxNTMyOTMwLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.tusbmnnh6sbdOUeVt_mt3m7D4oxUxfHp7id0c2qF75Q
+[2019-03-02T20:22:10.627] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:22:10.659] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:22:51.756] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:22:56.058] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:22:56.082] [INFO] base-router - login success
+[2019-03-02T20:22:56.100] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTM3NiwiZXhwIjoxNTUxNTMyOTc2LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.dbf-7XFuSas5qC8qhji-uXv6a0yob1UnE3WPks3xZUE
+[2019-03-02T20:22:56.100] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:22:56.127] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:23:28.715] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:23:31.551] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:23:31.576] [INFO] base-router - login success
+[2019-03-02T20:23:31.593] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTQxMSwiZXhwIjoxNTUxNTMzMDExLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.-NNYoBRdjx_fFdufkzltdDU4Bcp2kL1mnqKXOmBWtPk
+[2019-03-02T20:23:31.594] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:23:31.625] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:24:11.475] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:24:15.392] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:24:15.419] [INFO] base-router - login success
+[2019-03-02T20:24:15.436] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTQ1NSwiZXhwIjoxNTUxNTMzMDU1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.R-EYwCJwUXlkBkHh9R6e4lAvYb3a5v9ub-VrAlbBT9w
+[2019-03-02T20:24:15.439] [ERROR] APP - APP SYSTEM ERROR:Error: Failed to lookup view "c/platcurd.html" in views directory "F:\tp\views"
+[2019-03-02T20:24:15.489] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:25:31.215] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:25:32.146] [INFO] APP - /openapi/plat
+[2019-03-02T20:25:32.230] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:25:35.361] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T20:25:35.388] [INFO] base-router - login success
+[2019-03-02T20:25:35.412] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:25:35.621] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:48:23.227] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:48:23.374] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:48:52.288] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:48:52.363] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:49:16.800] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:49:16.874] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:53:55.675] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:53:55.772] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:55:12.825] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:55:12.941] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:55:14.107] [INFO] APP - /openapi/plat/start
+[2019-03-02T20:55:14.108] [ERROR] APP - APP SYSTEM ERROR:Error: Not Found
+[2019-03-02T20:56:43.663] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T20:56:43.748] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T20:56:44.938] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:01:56.771] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:01:56.940] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:01:57.953] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:02:02.964] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:03:51.204] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:03:51.838] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:03:51.927] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:03:52.795] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:03:57.801] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:04:08.362] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:08.442] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:04:08.549] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:08.616] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:04:08.719] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:08.795] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:04:08.887] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:08.963] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:04:19.837] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:19.928] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:04:35.537] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:04:35.629] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:05:23.923] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:05:24.001] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:05:39.222] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:05:39.300] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:05:40.566] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:05:45.568] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:07:45.580] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:07:55.201] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUyOTUzNSwiZXhwIjoxNTUxNTMzMTM1LCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.u0uSRy0cHo7AZvHZwe4MHsokZHGgCAtytAI-hj-ksGg
+[2019-03-02T21:07:55.303] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:09:11.112] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:09:11.974] [INFO] APP - /openapi/plat
+[2019-03-02T21:09:12.111] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:09:16.335] [INFO] APP - /openapi/plat
+[2019-03-02T21:09:16.416] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:09:23.091] [INFO] APP - /openapi/plat/platlogin
+[2019-03-02T21:09:23.117] [INFO] base-router - login success
+[2019-03-02T21:09:23.129] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUzMjE2MywiZXhwIjoxNTUxNTM1NzYzLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.Rx4GD7Y-ZOHNH7Pb6mMpGenIPqDmYXSV6DlO5IER4XI
+[2019-03-02T21:09:23.218] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:12:21.357] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:13:28.374] [INFO] APP - /openapi/plat/curd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzeCIsImlhdCI6MTU1MTUzMjE2MywiZXhwIjoxNTUxNTM1NzYzLCJhdWQiOiJzc3NzcyIsImlzcyI6InNzc3MiLCJzdWIiOiJzc3NzcyJ9.Rx4GD7Y-ZOHNH7Pb6mMpGenIPqDmYXSV6DlO5IER4XI
+[2019-03-02T21:13:28.468] [ERROR] APP - APP SYSTEM ERROR:TypeError: Cannot read property 'split' of undefined
+[2019-03-02T21:13:29.199] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:13:34.206] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:15:34.217] [INFO] APP - /openapi/plat/start
+[2019-03-02T21:16:52.035] [INFO] APP - /openapi/plat/start

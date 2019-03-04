@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../../commonHead.html %>
+        <title>会员中心</title>
+        <style>
+            #app {
+                width:10rem;
+                margin:0 auto;
+            }
+            .register_contain {
+                height:4rem;
+                width:7rem;
+                margin:0 auto;
+                border:1px solid red;
+                margin-top:7rem;
+            }
+            .register_contain input {
+                width:5rem;
+                height:0.8rem;
+                display: block;
+                margin:0 auto;
+                margin-top:1rem;
+            }
+            .register_contain button {
+                width:2rem;
+                height:.8rem;
+                display: block;
+                margin:0 auto;
+                margin-top:.5rem;
+            }
+            .yes {
+                border:1px solid red;
+                color:red;
+            }
+            .error {
+                width:6rem;
+                color:red;
+                font-size:.4rem;
+                line-height:.8rem;
+                text-align: center;
+                margin:0 auto;
+                margin-top:.2rem;
+            }
+           
+        </style>
+</head>
+
+<body>
+    <div id="app">
+        <div class="register_contain">
+            <input type="text" v-model ="email" placeholder="请输入邮箱">
+            <button @click="register" :class="{'yes':email !=''}">注册</button>
+            <div class="error">{{error}}</div>
+        </div>
+    </div>
+
+</body>
+
+
+<script type="text/javascript">
+    
+    var app = new Vue({
+        el: "#app",
+        data: function () {
+           return {
+               email:"",
+               emailReg:/^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/,
+               error:""
+           }
+        },
+        methods: {
+            register:function() {
+                let slef = this;
+                if(!this.emailReg.test(this.email)) {
+                   return  this.error = "邮箱格式不正确,请重新输入"
+                }
+                $.ajax({
+                   type: 'POST',
+                   url: '/openapi/register',
+                   data: {
+                       email:slef.email
+                   },
+                   success: function(data) {
+                       if(data.rsp_code == 'succ') {
+                           localStorage.setItem('token',data.succ_msg.token);
+                           window.location.href = "/openapi/vote?token="+data.succ_msg.token;
+                       } else {
+                           slef.error = data.error_msg
+                       }
+                  }
+                });
+           },
+            
+
+        },
+        watch:{
+          error(value) {
+              let self = this;
+              if(value != "") {
+                  setTimeout(() => {
+                    self.error = ""
+                  },2000)
+                }
+          }
+        },
+        created: function () {
+          
+        }
+    })
+
+</script>
+
+</html>

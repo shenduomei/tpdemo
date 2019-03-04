@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../commonHead.html %>
+        <title>会员中心</title>
+        <style>
+            #app {
+                width:10rem;
+                margin:0 auto;
+            }
+            .vote {
+                height:.8rem;
+                width:10rem;
+                margin-top:2rem;
+            }
+            button {
+                width:4rem;
+                text-align: center;
+                font-size:.6rem;
+                line-height:.8rem;
+                height:.8rem;
+               display: block;
+               margin:0 auto;
+            }
+           .addvotes {
+               font-size:.4rem;
+               margin-top:.2rem;
+           }
+           .add {
+               height:3rem;
+               width:8rem;
+               margin:0 auto;
+               margin-top:2rem;
+           }
+           .add .sigle {
+               height:.8rem;
+               display: block;
+               margin:0 auto;
+               margin-top:.2rem;
+           }
+           .controll_addvotes {
+               height:.8rem;
+               width:7rem;
+               margin:0 auto;
+               margin-top:.5rem;
+               position: relative;
+           }
+           .controll_addvotes .submit {
+               position: absolute;
+               height:.6rem;
+               width:1.5rem;
+           }
+           .controll_addvotes .left {
+              left:0;
+           }
+           .controll_addvotes .del {
+              left:1.8rem;
+           }
+           .controll_addvotes .find {
+              left:3.6rem;
+           }
+           .add .controll_addvotes .right {
+              right:0;
+           }
+           .error {
+               font-size:.4rem;
+               width:10rem;
+               height:.8rem;
+               line-height:.8rem;
+               text-align: center;
+               color:red;
+           }
+           .vote_number{
+               height:.8rem;
+               line-height:.8rem;
+               text-align: center;
+               width:10rem;
+               color:red;
+           }
+        </style>
+</head>
+
+
+<body>
+    <div id="app">
+        <div class="vote">
+                <button class="startvote" v-if="vote"  @click="votes('start')">开始投票</button>
+                <button class="endvote" v-else @click="votes('end')">结束投票</button>
+                <button class="addvotes" @click="controller('add')">添加/删除选举对象</button>
+                <div class="error">{{error}}</div>
+                <div class="vote_number" v-if="finded">总计投票数{{vote_number}}</div>
+                <div class="add" v-if="addvotes">
+                    <input type="text" class="sigle" v-model="addObject" placeholder="请输入添加和删除的对象">
+                    <div class="controll_addvotes">
+                            <input class="submit left" type="submit" @click="votes('add')" value="添加" >
+                            <input class="submit del" type="submit"  @click ="votes('del')" value="删除">
+                            <input class="submit find" type="submit"  @click ="votes('find')" value="查询">
+                            <input class="submit right"  type="submit" @click="controller('close')" value="关闭">
+                    </div>
+                   
+                </div>
+        </div>
+       
+    </div>
+
+</body>
+
+
+<script type="text/javascript">
+    
+    var app = new Vue({
+        el: "#app",
+        data: function () {
+           return {
+              username:"",
+              password:"",
+              vote:<%=vote%>,
+              error:"",
+              addObject:"",
+              addvotes:false,
+              vote_number:0,
+              finded:false,
+              error:"",
+           }
+        },
+        methods: {
+            controller:function(options) {
+                if(options == "add") {
+                    this.addvotes = true;
+                } else {
+                    this.addvotes = false;
+                }
+                
+            },
+            votes:function(action) {
+                let self = this, url = null,data = {};
+                data.token = localStorage.getItem("token");
+                switch (action) {
+                    case "start":
+                      url = '/openapi/plat/start';
+                      data.username = localStorage.getItem('plateuser');
+                    break;
+                    case "end":
+                    url = '/openapi/plat/end';
+                      data.username = localStorage.getItem('plateuser');
+                    break;
+                    case "add": 
+                       url = '/openapi/plat/addvotes'; 
+                       data.user = self.addObject;
+                    break;
+                    case "del":
+                       url = '/openapi/plat/delvotes';
+                       data.user = self.addObject;
+                       break;
+                    case "find":
+                       url = '/openapi/plat/findvotes';
+                       data.user = self.addObject;
+                       break;
+                    default:
+                       console.log('action not found');
+                 }
+                $.ajax({
+                   type: 'POST',
+                   url: url,
+                   data: data,
+                   success: function(data) {
+                       if(action == "start" || action == "end") {
+                        if(data.succ_msg.vote == true) {
+                           self.vote = false;
+                       } else {
+                        self.vote = true;
+                       }
+                       } else {
+                           if(data.rsp_code == 'succ' && action == "find") {
+                               self.finded = true;
+                               self.vote_number = data.succ_msg[0].vote.length;
+                               
+                           } else if(data.rsp_code == 'succ') {
+                               self.addObject = "";
+                               self.error = "成功"
+                           } else {
+                               self.error = data.error_msg;
+                           }
+                       }
+                       
+                  }
+                });
+            }
+
+        },
+        watch:{
+            error:function(value) {
+                let self = this;
+                if(value != "") {
+                    setTimeout(() => {
+                        self.error = "";
+                    }, 2000);
+                }
+            }
+        },
+        created: function () {
+          console.log(this)
+        }
+    })
+
+</script>
+
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../../commonHead.html %>
+        <title>会员中心</title>
+        <style>
+            #app {
+                width:10rem;
+                margin:0 auto;
+            }
+            .contain {
+                width:10rem;
+            }
+            .person {
+                height:1rem;
+                width:7rem;
+                margin:0 auto;
+                text-align: center;
+            }
+            .end_vote {
+                height:0.8rem;
+                font-size:0.4rem;
+                width:10rem;
+                line-height:0.8rem;
+                text-align: center;
+                color:red;
+            }
+            .sumbit {
+                height:.8rem;
+                width:2rem;
+                font-size:.4rem;
+                text-align: center;
+                display: block;
+                margin:0 auto;
+
+            }
+            .message{
+                height:.8rem;
+                width:10rem;
+                line-height:.8rem;
+                text-align: center;
+                font-size:.4rem;
+                color:red;
+            }
+           
+           
+        </style>
+</head>
+
+<body>
+    <div id="app">
+        <div class="contain">
+            <div class="start_vote" v-if="start == 'true'">
+            <%for(let i = 0; i < electedPerson.length;i++) {%>
+                <div class="person">
+                   <input type="checkbox" id='<%=electedPerson[i].user%>' @click="selectIndex($event)" value="<%=electedPerson[i].id%>" v-model="checkedNames">
+                   <label for="<%=electedPerson[i].user%>"><%=electedPerson[i].user%></label>
+                </div>
+            <%}%>
+            <button class="sumbit" @click="click" v-if="!voted">提交</button>
+            <button class="sumbit"  v-if="voted">投票成功</button>
+            </div>
+           <div class="end_vote" v-else>投票未开始</div>
+           
+        <div class="message">{{error}}</div>
+
+            
+        </div>
+    </div>
+
+</body>
+
+
+<script type="text/javascript">
+    
+    var app = new Vue({
+        el: "#app",
+        data: function () {
+           return {
+            checkedNames:[],
+            start:false,
+            total:"<%=total%>",
+            voted:false,
+            error:""
+           }
+        },
+        methods: {
+            selectIndex:function(event) {
+                if(this.checkedNames.length <= Math.floor(this.total/2)-1 && this.checkedNames.length < 5) {
+                    event.target.checked = !!event.target.checked;
+                } else {
+                    event.target.checked = false;
+                }
+            },
+            click:function() {
+                let self = this;
+                $.ajax({
+                   type: 'POST',
+                   url: '/openapi/updatavote',
+                   data: {
+                       votes:self.checkedNames,
+                      token:localStorage.getItem("token")
+                   },
+                   traditional:true,
+                   success: function(data) {
+                       if(data.rsp_code == 'succ') {
+                          self.checkedNames = [];
+                          self.error = "您已投票成功";
+                          self.voted = true;
+                       } else {
+                          self.error = data.error_msg
+                       }
+                  }
+                });
+            }
+        },
+        watch:{
+            checkedNames(value) {
+             
+            },
+            error(value) {
+                let self = this
+                if(value != "") {
+                    setTimeout(() => {
+                      self.error = "";    
+                    }, 2000);
+                }
+            }
+        },
+        created:function() {
+            let slef = this;
+            let task = setInterval(function() {
+            $.ajax({
+                   type: 'POST',
+                   url: '/openapi/vote/isstart',
+                   data: {
+                       token:localStorage.getItem('token')
+                   },
+                   success: function(data) {
+                       if(data.succ_msg.vote == true) {
+                           slef.start = 'true';
+                       } else {
+                           slef.start = 'false';
+                       }
+                  }
+                });
+           }, 1000);
+        }
+    })
+
+</script>
+
+</html>
